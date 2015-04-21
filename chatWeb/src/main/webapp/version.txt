@@ -1,0 +1,13 @@
+Path: .
+Working Copy Root Path: E:\03project\chatWeb
+URL: https://192.168.1.88/svn/common/trunk/server/chatWeb
+Relative URL: ^/trunk/server/chatWeb
+Repository Root: https://192.168.1.88/svn/common
+Repository UUID: 0013874c-3467-6c4f-ae03-ce16b1056fd6
+Revision: 418
+Node Kind: directory
+Schedule: normal
+Last Changed Author: wuliang
+Last Changed Rev: 66
+Last Changed Date: 2014-12-10 12:19:14 +0800 (周三, 10 十二月 2014)
+
